@@ -1,0 +1,20 @@
+baseurl = "jkirkell.github.io"
+languageCode = "en"
+title = "Jeff's Blog"
+copyright = "Jeff Kirkell 2017"
+disqusShortname = "blog-xs0y9oxxps"
+googleAnalytics = "UA-108059992-1"
+
+[params]
+
+[params.highlight]
+style = "github"
+languages = ["go", "dockerfile"]
+
+[[params.social]]
+url = "https://github.com/jkirkell"
+fa_icon = "fa-github"
+
+[[params.social]]
+url = "/index.xml"
+fa_icon = "fa-rss"
